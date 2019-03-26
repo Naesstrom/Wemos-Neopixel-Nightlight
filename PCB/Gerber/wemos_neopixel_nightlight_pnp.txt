@@ -1,0 +1,19 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=wemos_neopixel_nightlight
+*Date=16:56:59
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;22.5;-22.5;8.47102;Bottom;Part1
+2;;THT;22.5;-13.9573;-90;Bottom;J1
+3;4.7k;THT;24.2159;-19.0373;0;Bottom;R1
+4;;;22.5;-22.5;0;Bottom;WeMos D1 Mini1
