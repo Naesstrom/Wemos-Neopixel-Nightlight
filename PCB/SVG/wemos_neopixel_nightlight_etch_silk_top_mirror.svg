@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="1.77165in" xmlns:svg="http://www.w3.org/2000/svg" x="0in" viewBox="0 0 127.559 127.559" baseProfile="tiny" y="0in" version="1.2"  width="1.77165in">
+ <g transform="matrix(-1, 0, 0, 1, 127.559, 0)">
+  <g partID="65501">
+   <g id="silkscreen">
+    <ellipse fill="none" stroke-width="0.576" stroke="black" cy="63.7795" ry="63.4915" cx="63.7795" rx="63.4915"/>
+   </g>
+  </g>
+  <g partID="65500">
+   <g id="board">
+    <ellipse fill="none" stroke-width="0.5" stroke="black" cy="63.7795" id="boardoutline" ry="63.4915" fill-opacity="0.5" cx="63.7795" rx="63.4915"/>
+   </g>
+  </g>
+  <g partID="65501">
+   <g id="silkscreen">
+    <ellipse fill="none" stroke-width="0.576" stroke="black" cy="63.7795" ry="63.4915" cx="63.7795" rx="63.4915"/>
+   </g>
+  </g>
+  <g partID="62211">
+   <g transform="translate(10.5982,-8.01496)">
+    <g transform="matrix(0.98909,0.147309,-0.147309,0.98909,0,0)">
+     <g gorn="0.2" id="silkscreen">
+      <path fill="none" d="M0.288001,63.0001a62.7121,62.7121,0,1,1,125.424,0,62.7121,62.7121,0,1,1,-125.424,0z" stroke-width="0.576001" stroke="black"/>
+      <g>
+       <title>element:LED2</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="22.8671" x1="52.0272" x2="38.9329" stroke-width="0.360001" stroke="black" y1="17.4432" stroke-linecap="round"/>
+        <line y2="12.1298" x1="38.9329" x2="34.4853" stroke-width="0.360001" stroke="black" y1="22.8671" stroke-linecap="round"/>
+        <line y2="9.7728" x1="34.4853" x2="33.509" stroke-width="0.360001" stroke="black" y1="12.1298" stroke-linecap="round"/>
+        <line y2="8.79648" x1="33.509" x2="35.866" stroke-width="0.360001" stroke="black" y1="9.7728" stroke-linecap="round"/>
+        <line y2="4.3489" x1="35.866" x2="46.6033" stroke-width="0.360001" stroke="black" y1="8.79648" stroke-linecap="round"/>
+        <line y2="17.4432" x1="46.6033" x2="52.0272" stroke-width="0.360001" stroke="black" y1="4.3489" stroke-linecap="round"/>
+        <line y2="8.79648" x1="34.4853" x2="35.866" stroke-width="0.360001" stroke="black" y1="12.1298" stroke-linecap="round"/>
+        <line y2="7.50018" x1="35.866" x2="36.4029" stroke-width="0.360001" stroke="black" y1="8.79648" stroke-linecap="round"/>
+        <line y2="6.80986" x1="36.4029" x2="34.7363" stroke-width="0.360001" stroke="black" y1="7.50018" stroke-linecap="round"/>
+        <line y2="9.7728" x1="34.7363" x2="33.509" stroke-width="0.360001" stroke="black" y1="6.80986" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="13.608" cx="42.7681"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED3</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="34.8621" x1="35.2221" x2="25.2" stroke-width="0.360001" stroke="black" y1="24.84" stroke-linecap="round"/>
+        <line y2="26.6441" x1="25.2" x2="16.982" stroke-width="0.360001" stroke="black" y1="34.8621" stroke-linecap="round"/>
+        <line y2="24.84" x1="16.982" x2="15.178" stroke-width="0.360001" stroke="black" y1="26.6441" stroke-linecap="round"/>
+        <line y2="23.036" x1="15.178" x2="16.982" stroke-width="0.360001" stroke="black" y1="24.84" stroke-linecap="round"/>
+        <line y2="14.818" x1="16.982" x2="25.2" stroke-width="0.360001" stroke="black" y1="23.036" stroke-linecap="round"/>
+        <line y2="24.84" x1="25.2" x2="35.2221" stroke-width="0.360001" stroke="black" y1="14.818" stroke-linecap="round"/>
+        <line y2="23.036" x1="16.982" x2="16.982" stroke-width="0.360001" stroke="black" y1="26.6441" stroke-linecap="round"/>
+        <line y2="21.633" x1="16.982" x2="16.982" stroke-width="0.360001" stroke="black" y1="23.036" stroke-linecap="round"/>
+        <line y2="21.633" x1="16.982" x2="15.178" stroke-width="0.360001" stroke="black" y1="21.633" stroke-linecap="round"/>
+        <line y2="24.84" x1="15.178" x2="15.178" stroke-width="0.360001" stroke="black" y1="21.633" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="24.84" cx="25.2"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED4</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="52.0992" x1="22.5791" x2="17.1552" stroke-width="0.360001" stroke="black" y1="39.0049" stroke-linecap="round"/>
+        <line y2="47.6516" x1="17.1552" x2="6.41789" stroke-width="0.360001" stroke="black" y1="52.0992" stroke-linecap="round"/>
+        <line y2="46.6753" x1="6.41789" x2="4.0609" stroke-width="0.360001" stroke="black" y1="47.6516" stroke-linecap="round"/>
+        <line y2="44.3183" x1="4.0609" x2="5.0372" stroke-width="0.360001" stroke="black" y1="46.6753" stroke-linecap="round"/>
+        <line y2="33.581" x1="5.0372" x2="9.4848" stroke-width="0.360001" stroke="black" y1="44.3183" stroke-linecap="round"/>
+        <line y2="39.0049" x1="9.4848" x2="22.5791" stroke-width="0.360001" stroke="black" y1="33.581" stroke-linecap="round"/>
+        <line y2="44.3183" x1="6.41789" x2="5.0372" stroke-width="0.360001" stroke="black" y1="47.6516" stroke-linecap="round"/>
+        <line y2="43.0221" x1="5.0372" x2="4.50027" stroke-width="0.360001" stroke="black" y1="44.3183" stroke-linecap="round"/>
+        <line y2="43.7125" x1="4.50027" x2="2.83363" stroke-width="0.360001" stroke="black" y1="43.0221" stroke-linecap="round"/>
+        <line y2="46.6753" x1="2.83363" x2="4.0609" stroke-width="0.360001" stroke="black" y1="43.7125" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="42.8401" cx="13.32"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED6</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="86.9956" x1="17.5152" x2="22.9391" stroke-width="0.360001" stroke="black" y1="73.9009" stroke-linecap="round"/>
+        <line y2="91.4431" x1="22.9391" x2="12.2018" stroke-width="0.360001" stroke="black" y1="86.9956" stroke-linecap="round"/>
+        <line y2="92.4194" x1="12.2018" x2="9.8448" stroke-width="0.360001" stroke="black" y1="91.4431" stroke-linecap="round"/>
+        <line y2="90.0621" x1="9.8448" x2="8.86848" stroke-width="0.360001" stroke="black" y1="92.4194" stroke-linecap="round"/>
+        <line y2="79.3248" x1="8.86848" x2="4.4209" stroke-width="0.360001" stroke="black" y1="90.0621" stroke-linecap="round"/>
+        <line y2="73.9009" x1="4.4209" x2="17.5152" stroke-width="0.360001" stroke="black" y1="79.3248" stroke-linecap="round"/>
+        <line y2="90.0621" x1="12.2018" x2="8.86848" stroke-width="0.360001" stroke="black" y1="91.4431" stroke-linecap="round"/>
+        <line y2="89.5257" x1="8.86848" x2="7.57218" stroke-width="0.360001" stroke="black" y1="90.0621" stroke-linecap="round"/>
+        <line y2="91.1918" x1="7.57218" x2="6.88186" stroke-width="0.360001" stroke="black" y1="89.5257" stroke-linecap="round"/>
+        <line y2="92.4194" x1="6.88186" x2="9.8448" stroke-width="0.360001" stroke="black" y1="91.1918" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="83.1602" cx="13.68"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED7</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="100.584" x1="25.128" x2="35.1501" stroke-width="0.360001" stroke="black" y1="90.5625" stroke-linecap="round"/>
+        <line y2="108.802" x1="35.1501" x2="26.9321" stroke-width="0.360001" stroke="black" y1="100.584" stroke-linecap="round"/>
+        <line y2="110.606" x1="26.9321" x2="25.128" stroke-width="0.360001" stroke="black" y1="108.802" stroke-linecap="round"/>
+        <line y2="108.802" x1="25.128" x2="23.324" stroke-width="0.360001" stroke="black" y1="110.606" stroke-linecap="round"/>
+        <line y2="100.584" x1="23.324" x2="15.106" stroke-width="0.360001" stroke="black" y1="108.802" stroke-linecap="round"/>
+        <line y2="90.5625" x1="15.106" x2="25.128" stroke-width="0.360001" stroke="black" y1="100.584" stroke-linecap="round"/>
+        <line y2="108.802" x1="26.9321" x2="23.324" stroke-width="0.360001" stroke="black" y1="108.802" stroke-linecap="round"/>
+        <line y2="108.802" x1="23.324" x2="21.921" stroke-width="0.360001" stroke="black" y1="108.802" stroke-linecap="round"/>
+        <line y2="110.606" x1="21.921" x2="21.921" stroke-width="0.360001" stroke="black" y1="108.802" stroke-linecap="round"/>
+        <line y2="110.606" x1="21.921" x2="25.128" stroke-width="0.360001" stroke="black" y1="110.606" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="100.584" cx="25.128"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED8</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="108.917" x1="38.9329" x2="52.0272" stroke-width="0.360001" stroke="black" y1="103.493" stroke-linecap="round"/>
+        <line y2="119.654" x1="52.0272" x2="47.5796" stroke-width="0.360001" stroke="black" y1="108.917" stroke-linecap="round"/>
+        <line y2="122.011" x1="47.5796" x2="46.6033" stroke-width="0.360001" stroke="black" y1="119.654" stroke-linecap="round"/>
+        <line y2="121.035" x1="46.6033" x2="44.2463" stroke-width="0.360001" stroke="black" y1="122.011" stroke-linecap="round"/>
+        <line y2="116.587" x1="44.2463" x2="33.509" stroke-width="0.360001" stroke="black" y1="121.035" stroke-linecap="round"/>
+        <line y2="103.493" x1="33.509" x2="38.9329" stroke-width="0.360001" stroke="black" y1="116.587" stroke-linecap="round"/>
+        <line y2="121.035" x1="47.5796" x2="44.2463" stroke-width="0.360001" stroke="black" y1="119.654" stroke-linecap="round"/>
+        <line y2="121.572" x1="44.2463" x2="42.9501" stroke-width="0.360001" stroke="black" y1="121.035" stroke-linecap="round"/>
+        <line y2="123.238" x1="42.9501" x2="43.6405" stroke-width="0.360001" stroke="black" y1="121.572" stroke-linecap="round"/>
+        <line y2="122.011" x1="43.6405" x2="46.6033" stroke-width="0.360001" stroke="black" y1="123.238" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="112.752" cx="42.7681"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED10</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="103.781" x1="74.2609" x2="87.3556" stroke-width="0.360001" stroke="black" y1="109.205" stroke-linecap="round"/>
+        <line y2="114.518" x1="87.3556" x2="91.8031" stroke-width="0.360001" stroke="black" y1="103.781" stroke-linecap="round"/>
+        <line y2="116.875" x1="91.8031" x2="92.7794" stroke-width="0.360001" stroke="black" y1="114.518" stroke-linecap="round"/>
+        <line y2="117.852" x1="92.7794" x2="90.4221" stroke-width="0.360001" stroke="black" y1="116.875" stroke-linecap="round"/>
+        <line y2="122.299" x1="90.4221" x2="79.6848" stroke-width="0.360001" stroke="black" y1="117.852" stroke-linecap="round"/>
+        <line y2="109.205" x1="79.6848" x2="74.2609" stroke-width="0.360001" stroke="black" y1="122.299" stroke-linecap="round"/>
+        <line y2="117.852" x1="91.8031" x2="90.4221" stroke-width="0.360001" stroke="black" y1="114.518" stroke-linecap="round"/>
+        <line y2="119.148" x1="90.4221" x2="89.8857" stroke-width="0.360001" stroke="black" y1="117.852" stroke-linecap="round"/>
+        <line y2="119.838" x1="89.8857" x2="91.5518" stroke-width="0.360001" stroke="black" y1="119.148" stroke-linecap="round"/>
+        <line y2="116.875" x1="91.5518" x2="92.7794" stroke-width="0.360001" stroke="black" y1="119.838" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="113.04" cx="83.5202"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED11</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="91.1385" x1="91.1385" x2="101.16" stroke-width="0.360001" stroke="black" y1="101.16" stroke-linecap="round"/>
+        <line y2="99.3566" x1="101.16" x2="109.378" stroke-width="0.360001" stroke="black" y1="91.1385" stroke-linecap="round"/>
+        <line y2="101.16" x1="109.378" x2="111.182" stroke-width="0.360001" stroke="black" y1="99.3566" stroke-linecap="round"/>
+        <line y2="102.964" x1="111.182" x2="109.378" stroke-width="0.360001" stroke="black" y1="101.16" stroke-linecap="round"/>
+        <line y2="111.182" x1="109.378" x2="101.16" stroke-width="0.360001" stroke="black" y1="102.964" stroke-linecap="round"/>
+        <line y2="101.16" x1="101.16" x2="91.1385" stroke-width="0.360001" stroke="black" y1="111.182" stroke-linecap="round"/>
+        <line y2="102.964" x1="109.378" x2="109.378" stroke-width="0.360001" stroke="black" y1="99.3566" stroke-linecap="round"/>
+        <line y2="104.367" x1="109.378" x2="109.378" stroke-width="0.360001" stroke="black" y1="102.964" stroke-linecap="round"/>
+        <line y2="104.367" x1="109.378" x2="111.182" stroke-width="0.360001" stroke="black" y1="104.367" stroke-linecap="round"/>
+        <line y2="101.16" x1="111.182" x2="111.182" stroke-width="0.360001" stroke="black" y1="104.367" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="101.16" cx="101.16"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED12</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="74.2609" x1="103.781" x2="109.205" stroke-width="0.360001" stroke="black" y1="87.3556" stroke-linecap="round"/>
+        <line y2="78.7083" x1="109.205" x2="119.942" stroke-width="0.360001" stroke="black" y1="74.2609" stroke-linecap="round"/>
+        <line y2="79.6848" x1="119.942" x2="122.299" stroke-width="0.360001" stroke="black" y1="78.7083" stroke-linecap="round"/>
+        <line y2="82.042" x1="122.299" x2="121.323" stroke-width="0.360001" stroke="black" y1="79.6848" stroke-linecap="round"/>
+        <line y2="92.7794" x1="121.323" x2="116.875" stroke-width="0.360001" stroke="black" y1="82.042" stroke-linecap="round"/>
+        <line y2="87.3556" x1="116.875" x2="103.781" stroke-width="0.360001" stroke="black" y1="92.7794" stroke-linecap="round"/>
+        <line y2="82.042" x1="119.942" x2="121.323" stroke-width="0.360001" stroke="black" y1="78.7083" stroke-linecap="round"/>
+        <line y2="83.338" x1="121.323" x2="121.86" stroke-width="0.360001" stroke="black" y1="82.042" stroke-linecap="round"/>
+        <line y2="82.6476" x1="121.86" x2="123.526" stroke-width="0.360001" stroke="black" y1="83.338" stroke-linecap="round"/>
+        <line y2="79.6848" x1="123.526" x2="122.299" stroke-width="0.360001" stroke="black" y1="82.6476" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="83.5202" cx="113.04"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED14</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="38.6449" x1="109.205" x2="103.781" stroke-width="0.360001" stroke="black" y1="51.7392" stroke-linecap="round"/>
+        <line y2="34.1973" x1="103.781" x2="114.518" stroke-width="0.360001" stroke="black" y1="38.6449" stroke-linecap="round"/>
+        <line y2="33.221" x1="114.518" x2="116.875" stroke-width="0.360001" stroke="black" y1="34.1973" stroke-linecap="round"/>
+        <line y2="35.578" x1="116.875" x2="117.852" stroke-width="0.360001" stroke="black" y1="33.221" stroke-linecap="round"/>
+        <line y2="46.3153" x1="117.852" x2="122.299" stroke-width="0.360001" stroke="black" y1="35.578" stroke-linecap="round"/>
+        <line y2="51.7392" x1="122.299" x2="109.205" stroke-width="0.360001" stroke="black" y1="46.3153" stroke-linecap="round"/>
+        <line y2="35.578" x1="114.518" x2="117.852" stroke-width="0.360001" stroke="black" y1="34.1973" stroke-linecap="round"/>
+        <line y2="36.1149" x1="117.852" x2="119.148" stroke-width="0.360001" stroke="black" y1="35.578" stroke-linecap="round"/>
+        <line y2="34.4483" x1="119.148" x2="119.838" stroke-width="0.360001" stroke="black" y1="36.1149" stroke-linecap="round"/>
+        <line y2="33.221" x1="119.838" x2="116.875" stroke-width="0.360001" stroke="black" y1="34.4483" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="42.4801" cx="113.04"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED15</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="25.2" x1="101.52" x2="91.4985" stroke-width="0.360001" stroke="black" y1="35.2221" stroke-linecap="round"/>
+        <line y2="16.982" x1="91.4985" x2="99.7166" stroke-width="0.360001" stroke="black" y1="25.2" stroke-linecap="round"/>
+        <line y2="15.178" x1="99.7166" x2="101.52" stroke-width="0.360001" stroke="black" y1="16.982" stroke-linecap="round"/>
+        <line y2="16.982" x1="101.52" x2="103.324" stroke-width="0.360001" stroke="black" y1="15.178" stroke-linecap="round"/>
+        <line y2="25.2" x1="103.324" x2="111.542" stroke-width="0.360001" stroke="black" y1="16.982" stroke-linecap="round"/>
+        <line y2="35.2221" x1="111.542" x2="101.52" stroke-width="0.360001" stroke="black" y1="25.2" stroke-linecap="round"/>
+        <line y2="16.982" x1="99.7166" x2="103.324" stroke-width="0.360001" stroke="black" y1="16.982" stroke-linecap="round"/>
+        <line y2="16.982" x1="103.324" x2="104.727" stroke-width="0.360001" stroke="black" y1="16.982" stroke-linecap="round"/>
+        <line y2="15.178" x1="104.727" x2="104.727" stroke-width="0.360001" stroke="black" y1="16.982" stroke-linecap="round"/>
+        <line y2="15.178" x1="104.727" x2="101.52" stroke-width="0.360001" stroke="black" y1="15.178" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="25.2" cx="101.52"/>
+       </g>
+      </g>
+      <g>
+       <title>element:LED16</title>
+       <g>
+        <title>package:WS2812B-NARROW</title>
+        <line y2="17.2272" x1="87.3556" x2="74.2609" stroke-width="0.360001" stroke="black" y1="22.6511" stroke-linecap="round"/>
+        <line y2="6.48989" x1="74.2609" x2="78.7083" stroke-width="0.360001" stroke="black" y1="17.2272" stroke-linecap="round"/>
+        <line y2="4.1329" x1="78.7083" x2="79.6848" stroke-width="0.360001" stroke="black" y1="6.48989" stroke-linecap="round"/>
+        <line y2="5.1092" x1="79.6848" x2="82.042" stroke-width="0.360001" stroke="black" y1="4.1329" stroke-linecap="round"/>
+        <line y2="9.5568" x1="82.042" x2="92.7794" stroke-width="0.360001" stroke="black" y1="5.1092" stroke-linecap="round"/>
+        <line y2="22.6511" x1="92.7794" x2="87.3556" stroke-width="0.360001" stroke="black" y1="9.5568" stroke-linecap="round"/>
+        <line y2="5.1092" x1="78.7083" x2="82.042" stroke-width="0.360001" stroke="black" y1="6.48989" stroke-linecap="round"/>
+        <line y2="4.57227" x1="82.042" x2="83.338" stroke-width="0.360001" stroke="black" y1="5.1092" stroke-linecap="round"/>
+        <line y2="2.90563" x1="83.338" x2="82.6476" stroke-width="0.360001" stroke="black" y1="4.57227" stroke-linecap="round"/>
+        <line y2="4.1329" x1="82.6476" x2="79.6848" stroke-width="0.360001" stroke="black" y1="2.90563" stroke-linecap="round"/>
+        <circle fill="none" stroke-width="0.360001" stroke="black" r="4.87691" cy="13.392" cx="83.5202"/>
+       </g>
+      </g>
+      <line y2="126.066" fill="none" x1="55.5535" x2="69.7267" stroke-width="0.576001" stroke="black" y1="126.066" fill-opacity="1"/>
+      <line y2="126" fill="none" x1="55.5535" x2="55.5535" stroke-width="0.576001" stroke="black" y1="126.066" fill-opacity="1"/>
+      <line y2="126" fill="none" x1="69.7267" x2="69.7267" stroke-width="0.576001" stroke="black" y1="126.066" fill-opacity="1"/>
+      <line y2="70.8067" fill="none" x1="126" x2="126.066" stroke-width="0.576001" stroke="black" y1="70.8067" fill-opacity="1"/>
+      <line y2="56.6335" fill="none" x1="126" x2="126.066" stroke-width="0.576001" stroke="black" y1="56.6335" fill-opacity="1"/>
+      <line y2="56.6335" fill="none" x1="126.066" x2="126.066" stroke-width="0.576001" stroke="black" y1="70.8067" fill-opacity="1"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g partID="63661">
+   <g transform="translate(47.9392,93.0351)">
+    <g transform="matrix(0,-1,1,0,0,0)">
+     <g id="silkscreen">
+      <line y2="30.24" x1="1.44" x2="1.44" stroke-width="0.72" stroke="black" y1="1.44"/>
+      <line y2="30.24" x1="1.44" x2="8.64" stroke-width="0.72" stroke="black" y1="30.24"/>
+      <line y2="1.44" x1="8.64" x2="8.64" stroke-width="0.72" stroke="black" y1="30.24"/>
+      <line y2="1.44" x1="8.64" x2="1.44" stroke-width="0.72" stroke="black" y1="1.44"/>
+      <line y2="1.44" x1="1.44" x2="3.96" stroke-width="0.36" stroke="black" y1="3.96"/>
+      <!-- 120 -->
+     </g>
+    </g>
+   </g>
+  </g>
+  <g partID="64581">
+   <g transform="translate(51.5432,70.4991)">
+    <g id="silkscreen">
+     <line y2="3.096" x1="5.4" x2="10.584" stroke-width="0.72" stroke="black" y1="3.096"/>
+     <line y2="3.096" x1="24.984" x2="28.8" stroke-width="0.72" stroke="black" y1="3.096"/>
+     <line y2="0.72" x1="10.584" x2="24.984" stroke-width="0.72" stroke="black" y1="0.72"/>
+     <line y2="5.472" x1="24.984" x2="24.984" stroke-width="0.72" stroke="black" y1="0.72"/>
+     <line y2="5.472" x1="24.984" x2="10.584" stroke-width="0.72" stroke="black" y1="5.472"/>
+     <line y2="0.72" x1="10.584" x2="10.584" stroke-width="0.72" stroke="black" y1="5.472"/>
+    </g>
+   </g>
+  </g>
+  <g partID="64580" id="partLabel">
+   <g transform="translate(85.7432,64.8991)">
+    <g fill="#000000" font-size="5" stroke="none" font-style="normal" font-weight="normal" id="silkscreenLabel" fill-opacity="1" font-family="'OCRA'">
+     <text x="0" y="3.75">R1</text>
+    </g>
+   </g>
+  </g>
+  <g partID="63660" id="partLabel">
+   <g transform="translate(42.3392,82.9551)">
+    <g transform="matrix(0,-1,1,0,0,0)">
+     <g fill="#000000" font-size="5" stroke="none" font-style="normal" font-weight="normal" id="silkscreenLabel" fill-opacity="1" font-family="'OCRA'">
+      <text x="0" y="3.75">J1</text>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g partID="62212">
+   <g transform="translate(10.5982,-8.01496)">
+    <g transform="matrix(0.98909,0.147309,-0.147309,0.98909,0,0)">
+     <g gorn="0.3" id="copper1">
+      <g gorn="0.3.0" id="copper0">
+       <circle connectorname="IN" fill="white" stroke-width="1.8" stroke="white" r="1.98" gorn="0.3.0.0" cy="13.248" id="connector18pad" cx="30.0241"/>
+       <circle connectorname="OUT" fill="white" stroke-width="1.8" stroke="white" r="1.98" gorn="0.3.0.1" cy="4.46401" id="connector19pad" cx="74.6641"/>
+       <circle connectorname="+5V" fill="white" stroke-width="1.8" stroke="white" r="1.98" gorn="0.3.0.2" cy="95.9762" id="connector20pad" cx="13.248"/>
+       <circle connectorname="GND" fill="white" stroke-width="1.8" stroke="white" r="1.98" gorn="0.3.0.3" cy="112.68" id="connector21pad" cx="96.1202"/>
+       <circle connectorname="+5V" fill="white" stroke-width="1.8" stroke="white" r="1.98" gorn="0.3.0.4" cy="74.3041" id="connector22pad" cx="4.46401"/>
+       <circle connectorname="GND" fill="white" stroke-width="1.8" stroke="white" r="1.98" gorn="0.3.0.5" cy="96.0482" id="connector23pad" cx="112.68"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g partID="62341">
+   <g transform="translate(27.496,15.307)">
+    <g flipped="1" id="copper1">
+     <g transform="matrix(-1, 0, 0, 1, 72.566, 0)">
+      <g>
+       <g>
+        <g>
+         <g id="copper1">
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="20.6" id="connector0pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="27.8" id="connector1pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="35" id="connector2pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="42.2" id="connector3pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="49.4" id="connector4pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="56.6" id="connector5pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="63.8" id="connector6pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="71" id="connector7pad" cx="3.884"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="71" id="connector8pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="63.8" id="connector9pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="56.6" id="connector10pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="49.4" id="connector11pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="42.2" id="connector12pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="35" id="connector13pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="27.8" id="connector14pad" cx="68.683"/>
+          <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="20.6" id="connector15pad" cx="68.683"/>
+         </g>
+        </g>
+        <g>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="20.6" id="connector0pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="27.8" id="connector1pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="35" id="connector2pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="42.2" id="connector3pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="49.4" id="connector4pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="56.6" id="connector5pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="63.8" id="connector6pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="71" id="connector7pad" cx="3.884"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="71" id="connector8pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="63.8" id="connector9pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="56.6" id="connector10pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="49.4" id="connector11pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="42.2" id="connector12pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="35" id="connector13pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="27.8" id="connector14pad" cx="68.683"/>
+         <circle fill="white" stroke-width="2.22" stroke="white" r="2.05" cy="20.6" id="connector15pad" cx="68.683"/>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g partID="63662">
+   <g transform="translate(47.9392,93.0351)">
+    <g transform="matrix(0,-1,1,0,0,0)">
+     <g id="copper1">
+      <g id="copper0">
+       <circle fill="white" stroke-width="2.16" stroke="white" r="2.088" cy="5.04" id="connector0pin" cx="5.04"/>
+       <circle fill="white" stroke-width="2.16" stroke="white" r="2.088" cy="12.24" id="connector1pin" cx="5.04"/>
+       <circle fill="white" stroke-width="2.16" stroke="white" r="2.088" cy="19.44" id="connector2pin" cx="5.04"/>
+       <circle fill="white" stroke-width="2.16" stroke="white" r="2.088" cy="26.64" id="connector3pin" cx="5.04"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g partID="64582">
+   <g transform="translate(51.5432,70.4991)">
+    <g id="copper1">
+     <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+     <circle fill="white" stroke-width="2.16" stroke="white" r="1.98" cy="3.096" id="connector0pin" cx="2.7"/>
+     <circle fill="white" stroke-width="2.16" stroke="white" r="1.98" cy="3.096" id="connector1pin" cx="31.5"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
